@@ -1,5 +1,8 @@
 /*Add background and connect components here*/
 
+#grad {
+    background-image: linear-gradient(pink, blue)
+}
 
 h1{
     color: white;
@@ -7,6 +10,3 @@ h1{
 
 }
 
-#grad {
-    background-image: linear-gradient(pink, blue)
-}
