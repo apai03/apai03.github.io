@@ -1,6 +1,6 @@
 /*Add background and connect components here*/
 
-#grad {
+body {
     background-image: linear-gradient(pink, blue)
 }
 
