@@ -1,7 +1,7 @@
 /*Add background and connect components here*/
 
 body {
-    background-image: linear-gradient(pink, blue)
+    background: linear-gradient(pink, blue)
 }
 
 h1{
