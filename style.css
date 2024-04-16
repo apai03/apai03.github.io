@@ -1,1 +1,12 @@
 /*Add background and connect components here*/
+
+body {
+    background-color: rgb(238, 125, 238);
+}
+
+h1{
+    color: white;
+    background-color: navy;
+    text-align: center
+
+}
